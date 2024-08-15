@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**batmad/batmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm batmad, a web developer with a passion for creating interactive and user-friendly applications. Here are a few of my favorite projects:
 
-Here are some ideas to get you started:
+- [AutoSnapper](https://github.com/batmad/autoit-auto-snapper) - A collection of AutoIt scripts designed to automate tasks like logging in, navigating to specific pages, taking screenshots, managing configurations, and sending images through WhatsApp Desktop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- JavaScript
+- Node.js
+- Python
+- PHP
+- HTML/CSS
+- AutoIt
+
+## Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/boby-rizki-atmadja-178a84178/)
+- [Email](bobyatmadja69@gmail.com)
