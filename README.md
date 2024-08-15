@@ -6,4 +6,3 @@ I'm batmad, a web developer with a passion for creating interactive and user-fri
 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/boby-rizki-atmadja-178a84178/)
-- [Email](bobyatmadja69@gmail.com)
